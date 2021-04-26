@@ -1,1 +1,8 @@
+Git is version control
+*Keep tracks of project history
+*Collaboration 
 
+Differences 
+
+Git is version control software
+Github is web service and do Git things in Git.
