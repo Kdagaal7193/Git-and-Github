@@ -7,4 +7,8 @@ Differences
 Git is version control software
 Github is web service and do Git things in Git.
 
+<<<<<<< HEAD
 and this is very important
+=======
+there there
+>>>>>>> 4e7580aef74c60e2c9a3a78a90eeb55b84dcfd48
